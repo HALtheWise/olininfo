@@ -31,26 +31,25 @@ $(document).ready(function () {
 
 
 let keywords = {
-    "dining": "dining hall olin menu food drink",
-    "trim": "trim babson menu food drink",
+    "dining": "dining hall olin trim wellesley babson menu restaurant Lulu Chow Wang Campus Center food drink",
     "calendar": "calendar event academic",
-    "flyolinfly": "fly flights airport ride carpool"
+    "flyolinfly": "fly flights airport ride carpool transportation",
     "printing": "printing printers",
     "laundry": "laundry",
-    "shuttle": "BOW Babson Wellesley Olin shuttle",
-    "it": "it wiki wifi ubuntu matlab linux windows password",
-    "course_browser": "BOW Babson Wellesley Olin Cross course browser registration",
+    "shuttle": "BOW Babson Wellesley Olin shuttle transportation",
+    "it": "it wiki wifi ubuntu matlab linux windows reset password android phone ios solidworks",
+    "course_browser": "BOW Babson Wellesley Olin Brandeis Cross course browser registration",
     "onecard": "one card blackboard onecard",
     "libraries": "BOW Babson Wellesley Olin Library Libraries",
     "tools": "tools machine shop",
-    "degree_reqs": "Degree requirements",
+    "degree_reqs": "Degree course graduation major requirements",
     "sgconstitution": "SG constitution student government",
-    "offcampus": "get off campus pop the bubble shuttle boston",
+    "offcampus": "get off campus pop the bubble shuttle boston transportation",
     "mailing": "mailing lists carpediem",
-    "forms": "star oss reimbursement forms Self Study Requirement work order",
+    "forms": "star oss reimbursement forms Self Study Requirement work order Independent Study Research ISR ISRG ISR-G",
     "adastra": "ad astra booking rooms reserve reservation",
     "babsonhealth": "Babson Health Services",
-    "club": "Committee for Clubs and Organizations Acronym aero badminton board climbing cardistry DnD D&D Dungeons Dragons outing puzzle soft robotics formula baja oars core cco serv slac frisbee rocket Phoenix aquatic",
+    "club": "Committee for Clubs and Organizations Orgs Acronym aero badminton board climbing cardistry DnD D&D Dungeons Dragons outing puzzle soft robotics formula baja oars core cco serv slac frisbee rocket Phoenix aquatic",
     "feedback": "tiles site feedback"
 };
 
